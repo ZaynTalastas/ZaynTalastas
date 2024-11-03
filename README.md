@@ -28,10 +28,22 @@ I'm an **English Educator** and **Game Developer** with a diverse skill set in b
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ---
+## 👥 My Organizations
+
+[![GitHub Organization 1](https://img.shields.io/badge/TheBillionaireCity-000000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/orgs/](https://github.com/The-Billionaire-City))
+[![GitHub Organization 2](https://img.shields.io/badge/WAGERCITY-000000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/orgs/OrgName2](https://github.com/WAGER-CT))
+[![GitHub Organization 3](https://img.shields.io/badge/MIDNIGHTRP-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/OrgName3)
+---
+
 ## 📈 GitHub Stats
 
 ![Zentrix's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZaynTalastas&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaynTalastas&layout=compact&theme=tokyonight)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ZaynTalastas&theme=tokyonight&hide_border=true)
+
 
 ## 🏆 GitHub Trophies
 
