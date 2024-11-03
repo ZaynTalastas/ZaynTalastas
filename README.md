@@ -5,9 +5,9 @@ I'm an **English Educator** and **Game Developer** with a diverse skill set in b
 
 ---
 
-![Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile)
 
----
+
+
 
 ## 🧑‍🏫 About Me
 
@@ -64,5 +64,5 @@ I'm an **English Educator** and **Game Developer** with a diverse skill set in b
 
 ---
 
-![Footer](https://via.placeholder.com/800x50.png?text=Thanks+for+visiting!)
+
 
