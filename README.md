@@ -30,9 +30,9 @@ I'm an **English Educator** and **Game Developer** with a diverse skill set in b
 ---
 ## 👥 My Organizations
 
-[![GitHub Organization 1](https://img.shields.io/badge/TheBillionaireCity-000000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/orgs/](https://github.com/The-Billionaire-City))
-[![GitHub Organization 2](https://img.shields.io/badge/WAGERCITY-000000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/orgs/OrgName2](https://github.com/WAGER-CT))
-[![GitHub Organization 3](https://img.shields.io/badge/MIDNIGHTRP-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/OrgName3)
+[![GitHub Organization 1](https://img.shields.io/badge/TheBillionaireCity-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/The-Billionaire-City)
+[![GitHub Organization 2](https://img.shields.io/badge/WAGERCITY-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WAGER-CT)
+[![GitHub Organization 3](https://img.shields.io/badge/MIDNIGHTRP-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Istribo-Gang)
 ---
 
 ## 📈 GitHub Stats
@@ -59,8 +59,8 @@ I'm an **English Educator** and **Game Developer** with a diverse skill set in b
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ZaynTalastas)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ZaynTalastas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-mari-delos-reyes/)
+
 
 ---
 
